@@ -42,10 +42,10 @@
 - `Cooperation` - Jira, GitLab, Mattermost, Notion, Figma, ERDCloud
 
 ## 📈 ERD
-![PC.GG](/uploads/c4588bd7e9a8a83136e7ceaf34d4c42d/PC.GG.png)
+![PC GG](https://github.com/DGUN52/collaborative_filtering-PC.GG/assets/125403830/61de8262-bb41-467f-a95b-fbee5491a488)
 
 ## 🔌아키텍처
-![121212.PNG](/uploads/85b050f9cbc7647c8a7644c4e077f480/121212.PNG.png)
+![121212 PNG](https://github.com/DGUN52/collaborative_filtering-PC.GG/assets/125403830/13cdab40-fcad-477a-b92f-3bb6a649b432)
 
 ## 📅 일정
 - 기획: 2023.08.28 ~ 2023.09.01 (1주)
